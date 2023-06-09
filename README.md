@@ -89,7 +89,7 @@ Option.xml
 
 ### OUTPUT:
 
-![](https://github.com/KATHIR1611/MAD-10/blob/main/ui%201.png)
+![](https://github.com/sreevarshad/MAD-10/blob/main/mmm%2010.png)
 ![](https://github.com/KATHIR1611/MAD-10/blob/main/ui%202.png)
 
 ### RESULT:
